@@ -12,7 +12,7 @@
    // apply formatting 
    $list_price_f = "$".number_format ($list_price, 2);
    $discount_percent_f = $discount_percent."%";
-   $discont_f = "$".number_format($discount, 2);
+   $discount_f = "$".number_format($discount, 2);
    $discount_price_f = "$".number_format($discount_price, 2);
 ?>
 <!DOCTYPE html>
