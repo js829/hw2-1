@@ -36,7 +36,7 @@
        <br>
 
        <label>Standard Discount:</label>
-       <span><?php echo htmlspecialchar($discount_percent_f); ?></span>
+       <span><?php echo htmlspecialchars($discount_percent_f); ?></span>
        <br>
 
        <label>Discount Amount:</label>
